@@ -51,6 +51,9 @@ We approached this task by first creating a wireframe on Adobe InDesign to map o
 
 ![Home](./assets/images/search.png)
 
+## Presentation Link
+https://docs.google.com/presentation/d/1bxAc66CqurzHrctBxrlbO_LEosL77Pe--6m4l6kAXn4/edit?usp=sharing
+
 ## URL to Deployed Application:
 
 https://capg84.github.io/holiday-planner/
